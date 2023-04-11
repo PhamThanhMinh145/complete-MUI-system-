@@ -1,0 +1,30 @@
+.rootEmployee {
+  /* width: 100%; */
+  margin: 10px;
+  
+}
+
+.rootEmployee .grid .input{
+    margin-bottom: 20px;
+}
+
+.rootEmployee .grid .select{
+  margin-top: 20px;
+}
+
+.rootEmployee .grid .checkbox{
+    margin-top: 10px;
+}
+
+.rootEmployee .grid .date{
+  margin-top: 20px;
+  
+}
+
+.rootEmployee .grid .btn{
+  margin-top: 20px;
+}
+
+.rootEmployee .grid .btn .submit{
+  margin-right: 20px;
+}

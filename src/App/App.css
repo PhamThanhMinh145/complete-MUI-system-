@@ -1,0 +1,54 @@
+
+
+.appMain{
+    padding-left: 300px;
+    width: 100%;
+
+}
+
+.appMain .appBar{
+    background-color: #fff;
+    transform: translateZ(0);
+}
+
+.appMain .appBar .searchInput{
+    opacity: 0.6;
+    padding: 0px 8px;
+    font-size: 0.8rem;
+   
+
+}
+
+.appMain .appBar .searchInput:hover{
+    background-color: #f2f2f2;
+}
+
+.appMain .pageHeader{
+    background-color: #fdfdff;
+    margin-top: 20px;
+}
+
+.appMain .pageHeader .info{
+    padding: 4px;
+    margin-left: 28px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 3px;
+}
+
+.appMain .pageHeader .info .pageTitle{
+    margin-left: 15px;
+}
+
+.appMain .pageHeader .info .pageTitle .subTitle{
+    opacity: 0.6;
+}
+
+.appMain .pageHeader .info .pageIcon{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    color: #3c44b1;
+}
+
+

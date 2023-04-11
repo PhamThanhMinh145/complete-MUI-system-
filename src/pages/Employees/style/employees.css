@@ -1,0 +1,22 @@
+.pageContent{
+    margin: 20px;
+    padding: 20px;
+}
+.pageContent .edit {
+    background-color: lightblue;
+    margin-right: 20px;
+
+}
+
+.pageContent .delete{
+    background-color: lightpink;
+    color: red;
+}
+.pageContent .searchInput{
+    width: 75%;
+}
+
+.pageContent .newButton{
+    position: absolute;
+    right: 10px;
+}
